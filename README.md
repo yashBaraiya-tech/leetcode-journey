@@ -1,5 +1,22 @@
-# leetcode-journey
-This repository contains my Java solutions to LeetCode problems, helping me strengthen my DSA and algorithmic thinking.
+<div align="center">
+
+# 🧩 LeetCode Journey
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" alt="LeetCode"/>
+</p>
+
+### 🚀 Solving Data Structures & Algorithms in Java
+
+</div>
+
+---
+
+## 📖 About
+
+This repository contains my **Java** solutions to **LeetCode** problems. It serves as a record of my learning journey, helping me strengthen my **Data Structures & Algorithms (DSA)** knowledge, improve problem-solving skills, and prepare for coding interviews through consistent practice.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
