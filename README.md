@@ -1,5 +1,5 @@
 # leetcode-journey
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my Java solutions to LeetCode problems, helping me strengthen my DSA and algorithmic thinking.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
