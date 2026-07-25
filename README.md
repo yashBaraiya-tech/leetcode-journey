@@ -43,6 +43,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0009-palindrome-number) |
 ## Divide and Conquer
 |  |
