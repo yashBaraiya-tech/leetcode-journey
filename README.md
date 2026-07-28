@@ -25,6 +25,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [0001-two-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0283-move-zeroes) |
 ## Math
@@ -62,6 +64,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 ## Counting
