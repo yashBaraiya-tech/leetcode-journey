@@ -34,6 +34,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -109,4 +110,12 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
