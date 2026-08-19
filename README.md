@@ -70,6 +70,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [0007-reverse-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -101,6 +102,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0704-binary-search) |
@@ -145,4 +147,8 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
