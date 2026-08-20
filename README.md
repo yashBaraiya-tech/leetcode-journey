@@ -43,6 +43,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0054-spiral-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3248-snake-in-matrix) |
 ## String
 |  |
