@@ -44,6 +44,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3248-snake-in-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +98,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0231-power-of-two](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +111,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -153,4 +157,12 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
