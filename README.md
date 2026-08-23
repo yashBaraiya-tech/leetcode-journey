@@ -43,6 +43,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0724-find-pivot-index](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
@@ -140,6 +141,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
