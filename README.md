@@ -53,6 +53,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3248-snake-in-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3248-snake-in-matrix) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
