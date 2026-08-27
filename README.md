@@ -49,6 +49,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [1470-shuffle-the-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -67,6 +68,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
