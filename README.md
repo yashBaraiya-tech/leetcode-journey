@@ -50,6 +50,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [1470-shuffle-the-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
@@ -200,6 +201,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1773-count-items-matching-a-rule](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1927-sum-game) |
 | [3248-snake-in-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3248-snake-in-matrix) |
 ## Ternary Search
