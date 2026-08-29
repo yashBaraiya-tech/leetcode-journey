@@ -105,6 +105,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0367-valid-perfect-square) |
@@ -214,6 +215,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
