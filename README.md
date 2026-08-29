@@ -35,6 +35,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0118-pascals-triangle](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0283-move-zeroes) |
@@ -173,6 +174,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
