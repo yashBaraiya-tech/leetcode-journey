@@ -26,6 +26,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0001-two-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0059-spiral-matrix-ii) |
@@ -283,6 +284,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0090-subsets-ii) |
 ## Counting Sort
