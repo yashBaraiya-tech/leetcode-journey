@@ -56,6 +56,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
@@ -261,6 +262,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
