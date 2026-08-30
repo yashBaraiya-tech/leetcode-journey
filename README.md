@@ -37,6 +37,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0119-pascals-triangle-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
@@ -287,6 +288,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0216-combination-sum-iii) |
 ## Counting Sort
 |  |
 | ------- |
