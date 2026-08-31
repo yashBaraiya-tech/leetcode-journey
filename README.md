@@ -112,6 +112,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0007-reverse-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0171-excel-sheet-column-number) |
@@ -162,6 +163,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0509-fibonacci-number) |
 ## Binary Search
