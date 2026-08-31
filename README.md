@@ -35,6 +35,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0090-subsets-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0216-combination-sum-iii) |
@@ -194,6 +195,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0053-maximum-subarray](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0877-stone-game) |
 ## Matrix
