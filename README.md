@@ -39,6 +39,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0136-single-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
@@ -136,6 +138,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [0075-sort-colors](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
