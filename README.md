@@ -127,6 +127,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [2235-add-two-integers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
 |  |
@@ -306,6 +307,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [1534-count-good-triplets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1925-count-square-sum-triples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
 | ------- |
