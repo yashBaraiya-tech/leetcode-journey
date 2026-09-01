@@ -45,6 +45,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0704-binary-search) |
@@ -83,6 +84,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0217-contains-duplicate](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -105,6 +107,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0160-intersection-of-two-linked-lists](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 ## Math
@@ -144,6 +147,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0217-contains-duplicate](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -177,6 +181,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0240-search-a-2d-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0704-binary-search) |
