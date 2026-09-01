@@ -235,6 +235,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1773-count-items-matching-a-rule](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1927-sum-game) |
@@ -305,4 +306,8 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [1534-count-good-triplets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1925-count-square-sum-triples) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
