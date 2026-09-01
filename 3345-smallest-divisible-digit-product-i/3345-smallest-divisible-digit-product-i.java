@@ -1,23 +1,15 @@
 class Solution {
     public int smallestNumber(int n, int t) {
+        for (;; n++) {
+            int x = n, product = 1;
 
-        while (true) {
-            int m = product(n);
-            if (m % t == 0) {
-                return n;
+            while (x > 0) {
+                product *= x % 10;
+                x /= 10;
             }
-            n++;
-        }
-       
-    }
 
-    static int product(int n) {
-        int pro = 1;
-
-        while (n != 0) {
-            pro *= n % 10;
-            n /= 10;
+            if (product % t == 0)
+                return n;
         }
-        return pro;
     }
 }
