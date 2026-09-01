@@ -27,6 +27,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0059-spiral-matrix-ii) |
@@ -80,6 +81,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0001-two-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0205-isomorphic-strings) |
@@ -145,6 +147,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0217-contains-duplicate) |
@@ -239,6 +242,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0171-excel-sheet-column-number) |
