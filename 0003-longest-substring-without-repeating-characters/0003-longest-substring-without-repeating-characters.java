@@ -6,9 +6,9 @@ class Solution {
 
         int count = 0;
 
-        ArrayList<Character> chars = new ArrayList<>();
+        Set<Character> chars = new HashSet<>();
 
-         while (j < n) {
+        while (j < n) {
             char ch = s.charAt(j);
 
             if (!chars.contains(ch)) {
@@ -16,13 +16,12 @@ class Solution {
                 j++;
                 count = Math.max(count, j - i);
             } else {
-                chars.remove(Character.valueOf(s.charAt(i)));
+                chars.remove(s.charAt(i));
                 i++;
             }
         }
 
         return count;
 
-        
     }
 }
