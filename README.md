@@ -24,6 +24,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
@@ -108,6 +109,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
@@ -149,6 +151,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
