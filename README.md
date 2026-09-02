@@ -90,6 +90,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0242-valid-anagram](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -160,6 +161,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0383-ransom-note) |
 | [2351-first-letter-to-appear-twice](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -248,6 +250,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0171-excel-sheet-column-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
