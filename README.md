@@ -38,6 +38,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0118-pascals-triangle](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0216-combination-sum-iii) |
@@ -84,6 +85,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0205-isomorphic-strings) |
@@ -347,4 +349,8 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
