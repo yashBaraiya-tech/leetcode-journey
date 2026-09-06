@@ -266,6 +266,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1108-defanging-an-ip-address) |
 | [1773-count-items-matching-a-rule](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
