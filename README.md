@@ -148,6 +148,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3870-count-commas-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
