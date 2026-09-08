@@ -71,6 +71,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
@@ -103,6 +104,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -243,6 +245,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0240-search-a-2d-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
