@@ -73,6 +73,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -246,6 +247,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
