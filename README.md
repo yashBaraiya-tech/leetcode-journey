@@ -30,6 +30,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0035-search-insert-position](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0059-spiral-matrix-ii) |
@@ -335,6 +336,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0216-combination-sum-iii) |
@@ -368,4 +370,8 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0014-longest-common-prefix) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
