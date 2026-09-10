@@ -62,6 +62,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0724-find-pivot-index](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -221,6 +222,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0540-single-element-in-a-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Pigeonhole Principle
 |  |
