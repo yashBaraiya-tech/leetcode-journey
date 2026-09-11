@@ -250,6 +250,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
@@ -287,6 +288,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
@@ -360,6 +362,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0051-n-queens) |
@@ -407,4 +410,8 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
