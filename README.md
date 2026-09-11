@@ -75,6 +75,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [1773-count-items-matching-a-rule](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -113,6 +114,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2351-first-letter-to-appear-twice) |
@@ -184,6 +186,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +212,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0050-powx-n](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -371,6 +375,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [1534-count-good-triplets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1925-count-square-sum-triples) |
+| [2094-finding-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
