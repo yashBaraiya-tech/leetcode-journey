@@ -1,36 +1,33 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        int[] freq = new int[10];
+        int freq[] = new int[10];
 
-        for (int d : digits) {
-            freq[d]++;
+        for (int e : digits) {
+            freq[e]++;
         }
 
         int ans = 0;
 
-        // Choose units digit (must be even)
-        for (int e = 0; e <= 8; e += 2) {
-            if (freq[e] == 0) continue;
+        for (int i = 1; i <= 9; i++) {
+            // hundred
+            if (freq[i] == 0)
+                continue;
+            freq[i]--;
 
-            // Choose hundreds digit (cannot be 0)
-            for (int h = 1; h <= 9; h++) {
-                if (freq[h] == 0) continue;
-                if (h == e && freq[h] < 2) continue;
+            for (int j = 0; j <= 9; j++) {
+                // tenth
+                if (freq[j] == 0)
+                    continue;
+                freq[j]--;
 
-                // Choose tens digit
-                for (int t = 0; t <= 9; t++) {
-                    if (freq[t] == 0) continue;
-
-                    int need = 1;
-
-                    if (t == e) need++;
-                    if (t == h) need++;
-
-                    if (freq[t] >= need) {
+                for (int k = 0; k <= 8; k = k + 2) {
+                    // unit
+                    if (freq[k] > 0)
                         ans++;
-                    }
                 }
+                freq[j]++;
             }
+            freq[i]++;
         }
 
         return ans;
