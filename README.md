@@ -86,6 +86,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3248-snake-in-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3248-snake-in-matrix) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -117,6 +118,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [2351-first-letter-to-appear-twice](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -207,6 +209,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0050-powx-n](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -369,6 +372,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [1534-count-good-triplets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1925-count-square-sum-triples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
