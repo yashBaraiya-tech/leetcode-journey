@@ -31,6 +31,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0036-valid-sudoku](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0053-maximum-subarray) |
@@ -370,6 +371,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0022-generate-parentheses](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0090-subsets-ii) |
