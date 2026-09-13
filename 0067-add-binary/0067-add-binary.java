@@ -9,7 +9,7 @@ class Solution {
         int i = n - 1;
         int j = m - 1;
 
-        while (i >= 0 && j >= 0) {
+        while (i >= 0 && j >= 0){
             int I = a.charAt(i) - '0';
             int J = b.charAt(j) - '0';
 
