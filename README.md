@@ -151,6 +151,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0009-palindrome-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0171-excel-sheet-column-number) |
@@ -200,6 +201,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0136-single-number) |
@@ -282,6 +284,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -297,6 +300,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0171-excel-sheet-column-number) |
