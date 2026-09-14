@@ -159,6 +159,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1486-xor-operation-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1925-count-square-sum-triples) |
@@ -430,4 +431,8 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
