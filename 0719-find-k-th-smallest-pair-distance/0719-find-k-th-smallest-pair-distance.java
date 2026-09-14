@@ -26,20 +26,17 @@ class Solution {
 
     static int findCount(int[] nums, int mid) {
         int n = nums.length;
-
-        int i = 0;
-        int j = 1;
-        int pairCount = 0;
-
-        while (j < n) {
-
-            while (nums[j] - nums[i] > mid) {
-                i++;
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            int j = i + 1;
+            while (j < n && nums[j] - nums[i] <= mid) {
+                j++;
             }
-            pairCount += (j - i);
-            j++;
+
+            count += j - i-1;
         }
 
-        return pairCount;
+        return count;
+
     }
 }
