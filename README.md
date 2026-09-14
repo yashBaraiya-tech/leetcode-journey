@@ -62,6 +62,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0485-max-consecutive-ones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0867-transpose-matrix) |
@@ -146,6 +147,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0242-valid-anagram](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -238,6 +241,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0367-valid-perfect-square](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
