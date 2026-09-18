@@ -145,6 +145,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0287-find-the-duplicate-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -270,6 +271,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0118-pascals-triangle](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0877-stone-game) |
 ## Matrix
@@ -319,6 +321,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0344-reverse-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0771-jewels-and-stones) |
