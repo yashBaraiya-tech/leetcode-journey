@@ -165,6 +165,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 | [0268-missing-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [0829-consecutive-numbers-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1486-xor-operation-in-an-array) |
@@ -401,6 +402,7 @@ This repository contains my **Java** solutions to **LeetCode** problems. It serv
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/0829-consecutive-numbers-sum) |
 | [1534-count-good-triplets](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/1925-count-square-sum-triples) |
 | [2094-finding-3-digit-even-numbers](https://github.com/yashBaraiya-tech/leetcode-journey/tree/master/2094-finding-3-digit-even-numbers) |
